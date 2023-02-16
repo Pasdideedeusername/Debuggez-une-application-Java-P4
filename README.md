@@ -16,4 +16,4 @@ A l'exécution du programme, le fichier de sortie (result.out) est créé sur le
 
 ## Fabriqué avec
 IDE : IntelliJ
-Langage: JAVA 8
+Langage: JAVA 17
